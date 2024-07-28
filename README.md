@@ -19,6 +19,6 @@ Algumas imagens de amostra:
 
 👨‍💻 Aluno Dev
 
-Cristiano Eggert
+Cristian Eggert
 
 [Linkedin](https://www.linkedin.com/in/cristian-eggert/)
